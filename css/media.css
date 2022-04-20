@@ -13,10 +13,11 @@
     .icons {
         margin-right: 10px;
     }
-    .navbar-brand {
-        margin: 0;
-        padding: 0;
+    .li2 {
+        height: 147px !important;
     }
+    .nav-tabs {}
+    .navbar-brand {}
     .circle_box {
         margin-right: 10px;
     }
@@ -103,4 +104,7 @@
         justify-content: center;
     }
     .nav-tabs {}
+    .navbar {
+        margin-bottom: 30px;
+    }
 }

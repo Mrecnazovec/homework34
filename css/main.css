@@ -83,7 +83,7 @@ a {
     align-items: center;
     justify-content: center;
     width: 140px;
-    height: 147px;
+    height: 18vh;
     background: rgba(247, 244, 244, 0.8);
     backdrop-filter: blur(27.1828px);
     border: 1px solid rgba(0, 0, 0, 0.192) !important;
@@ -93,7 +93,7 @@ a {
 .link2.active::after {
     content: "";
     width: 3px;
-    height: 147px;
+    height: 18vh;
     background-color: #FF0202;
     position: absolute;
     top: 0;
@@ -115,7 +115,7 @@ a {
 .link2:focus::after {
     content: "";
     width: 3px;
-    height: 147px;
+    height: 18vh;
     background-color: #FF0202;
     position: absolute;
     top: 0;
