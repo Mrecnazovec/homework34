@@ -93,6 +93,9 @@
         justify-content: center;
         flex-direction: column;
     }
+    body {
+        overflow-y: visible;
+    }
 }
 
 @media screen and (max-width:500px) {

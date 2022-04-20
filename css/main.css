@@ -12,6 +12,11 @@ a {
     align-items: center;
 }
 
+body {
+    height: 100vh;
+    overflow-y: hidden;
+}
+
 .flex-column {}
 
 .navbar-brand {}
